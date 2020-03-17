@@ -1,2 +1,2 @@
 print("hellow world")
-print("cao ni ma wo yao zhengqian")
+print("我的天")
